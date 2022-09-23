@@ -1,4 +1,4 @@
-# This is not my Official github Account, please navigate to github user named "thivinanandh" in the below link
+# This is not my Official github Account, please navigate to github user named "thivinanandh" using the below link
 [Official Github Page](https://github.com/thivinanandh)
 - 👋 Hi, I’m @thivinthegreat
 - 👀 I’m interested in CFD, FEM, HPC, ML, PINNs
